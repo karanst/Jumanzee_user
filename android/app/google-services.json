@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843950914159",
+    "project_id": "jumanzee-de164",
+    "storage_bucket": "jumanzee-de164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843950914159:android:eff1dc904dcdd8e58c2b9a",
+        "android_client_info": {
+          "package_name": "com.jumanzee.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843950914159-28o6ovb5i6n787rsj9mcspk1kcs4jsu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumanzee.user",
+            "certificate_hash": "12ec2962e6067f35648a1eae460bdbeb2722d4ac"
+          }
+        },
+        {
+          "client_id": "843950914159-rfnvhri1aefhg0p0k2hs2spkc9599bkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QBOKd9qoqkyODl5GDQXGrIIcV8RQvpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843950914159-rfnvhri1aefhg0p0k2hs2spkc9599bkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
